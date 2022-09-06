@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **DailyPS/DailyPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... baksa1849@gmail.com for usual, baksa1849@g.skku.edu for official contact.  
 - 😄 Pronouns: ... KOR  
 - ⚡ Fun fact: ... Ranker of some Games..?  
--->
